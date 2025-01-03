@@ -2,9 +2,9 @@
   "site": {
     "baseUrl": "/",
     "language": "en",
-    "title": "Astro Simple",
-    "description": "<your site description>",
-    "copyright": "© 2024 copyright text."
+    "title": "ZuhaSite Blog",
+    "description": "This is a sample.",
+    "copyright": "© 2025 ZwSite. All rights reserved."
   },
   "memus":[
     {
